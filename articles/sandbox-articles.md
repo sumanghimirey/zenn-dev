@@ -26,6 +26,7 @@ Telnetが同様の目的に役立つと主張するかもしれませんが、SS
 ## macOSでの課題
 
 macOSはBluetoothに関して独自の挙動を示すため、Bluetoothを使用した接続の設定が最も複雑です。テストされたシステムの中で、macOSはBluetoothベースの接続を構成するために最も複雑であることが判明しました。難易度の点では、順序はmacOS >> Windows（WSL）> Linuxとなります。この目的のためにmacOSを設定するには、いくつかのApple固有の問題を克服する必要があります。
+![](../images/articles/sandbox-articles/apple-macbook-pro.jpg)
 
 ## 予期せぬハードル
 
