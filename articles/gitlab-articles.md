@@ -1,3 +1,12 @@
+---
+title: "GitLabからGitHubへの移行体験" 
+emoji: "😸" 
+type: "tech" 
+topics: ['tech','gitlab'] 
+published: false 
+---
+
+
 # GitLabからGitHubへの移行体験
 
 最近、多くの開発者がGitLabからGitHubに移行しています。 GitHubは最近、無料プランで提供する機能の多様性を向上させたことが主な要因です。しかし、GitLabからGitHubへの移行は簡単なものではありません。 
