@@ -1,6 +1,6 @@
 ---
 title: "Bluetooth経由でMacからLinuxへSSH接続  MacからLinuxへBluetoothを介してSSH"
-emoji: "😸"
+emoji: ""
 type: "25-砂場"
 topics: ['25-砂場']
 published: False
