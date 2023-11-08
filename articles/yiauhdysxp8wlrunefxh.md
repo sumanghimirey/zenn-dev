@@ -1,12 +1,12 @@
 ---
-title: "ヌーボーの解禁日がやってきました！"
+title: "# ヌーボーの解禁日とは？"
 emoji: ""
 type: "25fun-reasonable-love-wine"
 topics: ['25fun-reasonable-love-wine']
 published: False
 ---
 
-# ヌーボーの解禁日がやってきました！
+# # ヌーボーの解禁日とは？
 
 ヌーボーの解禁日がやってきました！
 
