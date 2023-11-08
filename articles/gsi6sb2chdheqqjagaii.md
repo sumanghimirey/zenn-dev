@@ -1,12 +1,12 @@
 ---
-title: "Swagger Viewerを使用してRESTful APIの設計書を管理しましょう！"
+title: "# RESTful API の設計とSwagger Viewerの利用方法"
 emoji: ""
 type: "25-dev-general"
 topics: ['25-dev-general']
 published: False
 ---
 
-# Swagger Viewerを使用してRESTful APIの設計書を管理しましょう！
+# # RESTful API の設計とSwagger Viewerの利用方法
 
 Swagger Viewerを使用してRESTful APIの設計書を管理しましょう！
 
