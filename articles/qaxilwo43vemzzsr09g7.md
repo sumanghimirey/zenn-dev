@@ -1,12 +1,12 @@
 ---
-title: "シャトー・ド・マレル２０１５、驚きの味わい！"
+title: "# シャトー・ド・マレル２０１５：素晴らしいワイン体験"
 emoji: ""
 type: "25fun-reasonable-love-wine"
 topics: ['25fun-reasonable-love-wine']
 published: False
 ---
 
-# シャトー・ド・マレル２０１５、驚きの味わい！
+# # シャトー・ド・マレル２０１５：素晴らしいワイン体験
 
 シャトー・ド・マレル２０１５、驚きの味わい！
 
